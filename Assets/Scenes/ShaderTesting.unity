@@ -202,7 +202,7 @@ MonoBehaviour:
   tweakMode: 1
   screenBlendMode: 1
   hdr: 1
-  sepBlurSpread: 3.5
+  sepBlurSpread: 3.0999999
   useSrcAlphaAsMask: 0
   bloomIntensity: 1
   bloomThreshhold: .340000004
@@ -276,7 +276,6 @@ MonoBehaviour:
   m_Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Priority: 3
   ignoreReversedGraphics: 1
   blockingObjects: 0
   m_BlockingMask:
@@ -296,6 +295,7 @@ Canvas:
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
 --- !u!1 &222662108
@@ -8528,7 +8528,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1121599439}
-  m_HideIfInvisible: 0
 --- !u!224 &1121599442
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12214,6 +12213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
+  m_DragThreshold: 5
 --- !u!4 &1946685234
 Transform:
   m_ObjectHideFlags: 0
