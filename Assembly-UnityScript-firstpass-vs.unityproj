@@ -75,17 +75,12 @@
      <None Include="Assets\TwinSpiritsSource\Shaders\toony gooch\Toony_Gooch_RimOutlineHard.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-Alpha-Diffuse.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Toon Shading\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\AspectRingShader.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\DecalSystem.Runtime.xml" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowConeTap.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\toony gooch\Toony_Gooch_RimAlpha.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-Alpha-VertexLit.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SunShaftsComposite.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Mobile-Decal-AlphaTest-Bumped.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionCurves.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ScreenSpaceAmbientObscurance.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\NFAA.shader" />
@@ -94,11 +89,8 @@
      <None Include="Assets\TwinSpiritsSource\HOTween\readme.txt" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Transparency Projector.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\toony gooch\Toony_Gooch_RimLight.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Readme.txt" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Experimental Shadow Receiver\Decal-Alpha-Parallax-Diffuse-Colored-Receive-Shadow.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Colored\Mobile-Decal-Alpha-TargetBumped-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlur.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MobileBloom.shader" />
      <None Include="Assets\Shaders\AlphaMask.shader" />
@@ -113,17 +105,8 @@
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Apply.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\toony gooch\Toony_Gooch_RimLight_backface.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-AlphaTest-VertexLit.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\frag_ao.cginc" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\NavMeshContourShader.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Particle Alpha Blend.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-AlphaTest-Diffuse.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\VisualSensorRingShader.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Mobile-Decal-Alpha-Diffuse.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-Alpha-Diffuse-Colored.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\WaypointShader.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Experimental Shadow Receiver\Decal-Alpha-Bumped-Colored-Receive-Shadow.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Release Notes.txt" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Toon Shading\Toony-BasicOutline.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\toony gooch\Toony_Gooch_RimOutline.shader" />
@@ -136,40 +119,26 @@
      <None Include="Assets\TwinSpiritsSource\Shaders\Projector Texture.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowEffectDownsample.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CreaseApply.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Experimental Shadow Receiver\Decal-Alpha-Diffuse-Colored-Receive-Shadow.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\UnlitTransparentColored.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-AlphaTest-Bumped-Colored.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-Alpha-TargetBumped.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\UnlitTransparentColoredBehind.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Experimental Shadow Receiver\Decal-Alpha-TargetBumped-Colored-Receive-Shadow.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ChromaticAberrationShader.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-AlphaTest-Bumped.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\VisualSensorLineShader.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlobalFog.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Toon Shading\Toony-LightedOutline.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Luminance.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Toon Shading\Toony-Lighted.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Toon Shading\Toony-Lighted-Hero.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-Alpha-TargetBumped-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\Bokeh34.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Colored\Mobile-Decal-AlphaTest-Diffuse-Colored.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\diffuse transparent shadows.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Particle Add zwrite.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Colored\Mobile-Decal-AlphaTest-TargetBumped-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlurEffectConeTaps.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlur.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Colored\Mobile-Decal-Alpha-Diffuse-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\DLAA.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-Alpha-Bumped-Colored.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-AlphaTest-TargetBumped-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseAndGrainDX11.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Mobile-Decal-Alpha-Bumped.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\ScriptTemplates\BehaviorTreeTemplate.xml" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableBlur.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlurClear.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\lightning.shader" />
@@ -178,57 +147,34 @@
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SepiaToneEffect.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\TwirlEffect.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\VortexEffect.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-Alpha-Parallax-Diffuse-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Adaptation.shader" />
      <None Include="Assets\Shaders\UnlitPartialAnimated.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\AspectSphereShader.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseAndGrain.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\VignettingShader.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Tonemapper.shader" />
-     <None Include="Assets\TwinSpiritsSource\RAIN\Editor\Shaders\NavMeshColliderShader.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Mobile-Decal-AlphaTest-TargetBumped.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrection3DLut.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectNormals.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-Alpha-Bumped.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Decal-AlphaTest-TargetBumped.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\Blend.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\toony gooch\Toony_Gooch.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\Transparent via Projector.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Colored\Decal-AlphaTest-Diffuse-Colored.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\OutlineOcclussion.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Mobile-Decal-AlphaTest-Diffuse.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Colored\Mobile-Decal-Alpha-Bumped-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SimpleClear.shader" />
      <None Include="Assets\Shaders\SimpleMix.shader" />
      <None Include="Assets\TwinSpiritsSource\Shaders\UnlitTransparentColoredWithZWrite.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Colored\Mobile-Decal-AlphaTest-Bumped-Colored.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
-     <None Include="Assets\TwinSpiritsSource\Plugins\Decal System\Shader\Mobile\Mobile-Decal-Alpha-TargetBumped.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
- <Reference Include="XInputDotNetPure">
- <HintPath>C:/Users/Public/Documents/Unity Projects/Spomenik/Assets/TwinSpiritsSource/ControlLibrary/XInput/XInputDotNetPure.dll</HintPath>
- </Reference>
  <Reference Include="HOTween">
  <HintPath>C:/Users/Public/Documents/Unity Projects/Spomenik/Assets/TwinSpiritsSource/HOTween/Plugins/HOTween.dll</HintPath>
- </Reference>
- <Reference Include="DecalSystem.Runtime">
- <HintPath>C:/Users/Public/Documents/Unity Projects/Spomenik/Assets/TwinSpiritsSource/Plugins/Decal System/DecalSystem.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="RAIN">
- <HintPath>C:/Users/Public/Documents/Unity Projects/Spomenik/Assets/TwinSpiritsSource/RAIN/RAIN.dll</HintPath>
- </Reference>
- <Reference Include="RAINMetaform">
- <HintPath>C:/Users/Public/Documents/Unity Projects/Spomenik/Assets/TwinSpiritsSource/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
