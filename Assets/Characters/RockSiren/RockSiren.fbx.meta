@@ -4,10 +4,20 @@ ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
+    100002: RockSiren_Paint.body
+    100004: RockSiren_Paint.legs
     400000: //RootNode
+    400002: RockSiren_Paint.body
+    400004: RockSiren_Paint.legs
     2300000: //RootNode
+    2300002: RockSiren_Paint.body
+    2300004: RockSiren_Paint.legs
     3300000: //RootNode
+    3300002: RockSiren_Paint.body
+    3300004: RockSiren_Paint.legs
     4300000: RockSiren
+    4300002: RockSiren_Paint.legs
+    4300004: RockSiren_Paint.body
     9500000: //RootNode
   materials:
     importMaterials: 1
