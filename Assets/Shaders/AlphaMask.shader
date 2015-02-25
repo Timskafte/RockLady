@@ -6,8 +6,8 @@
     SubShader {
         Tags { "RenderType" = "Transparent" "Queue" = "Transparent"}
        
-        //ZWrite Off
-        //Cull Off
+        ZWrite Off
+        Cull Off
        
         Blend SrcAlpha OneMinusSrcAlpha
         ColorMask RGB
