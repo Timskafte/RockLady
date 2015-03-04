@@ -9,15 +9,15 @@
     
     if (Input.GetKey(KeyCode.UpArrow))
     		{
-    		animation.Play ("run");}
+    		GetComponent.<Animation>().Play ("run");}
     		
     else if(Input.GetKey(KeyCode.Space))
     		{
-  			  animation.Play ("attack");}
+  			  GetComponent.<Animation>().Play ("attack");}
   			  
   	else 
    			 {
-    		animation.Play ("idle");}
+    		GetComponent.<Animation>().Play ("idle");}
 
    	 }
     

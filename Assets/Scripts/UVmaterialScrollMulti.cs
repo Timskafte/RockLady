@@ -18,7 +18,7 @@ public class UVmaterialScrollMulti : MonoBehaviour {
 		float offsetMat2X = Time.time * Material2ScrollSpeedX;
 		float offsetMat2Y = Time.time * Material2ScrollSpeedY;
 
-		renderer.materials[ScrollMaterial1].SetTextureOffset("_MainTex", new Vector2(offsetMat1X, offsetMat1Y));
-		renderer.materials[ScrollMaterial2].SetTextureOffset("_MainTex", new Vector2(offsetMat2X, offsetMat2Y));
+		GetComponent<Renderer>().materials[ScrollMaterial1].SetTextureOffset("_MainTex", new Vector2(offsetMat1X, offsetMat1Y));
+		GetComponent<Renderer>().materials[ScrollMaterial2].SetTextureOffset("_MainTex", new Vector2(offsetMat2X, offsetMat2Y));
 			}
 }

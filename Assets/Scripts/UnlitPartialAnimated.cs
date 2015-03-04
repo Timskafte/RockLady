@@ -8,6 +8,6 @@ public class UnlitPartialAnimated : MonoBehaviour {
 	void Update() {
 		float offsetX = Time.time * scrollSpeedX;
 		float offsetY = Time.time * scrollSpeedY;
-		renderer.material.SetTextureOffset("_MainTex", new Vector2(offsetX, offsetY));
+		GetComponent<Renderer>().material.SetTextureOffset("_MainTex", new Vector2(offsetX, offsetY));
 	}
 }
