@@ -77,6 +77,8 @@ ModelImporter:
     100142: legs_lower_end
     100144: thumb.03.L_end
     100146: thumb.03.R_end
+    100148: MagicBall
+    100150: MagicBall 1
     400000: //RootNode
     400002: RockSiren_Paint.body
     400004: RockSiren_Paint.legs
@@ -151,6 +153,8 @@ ModelImporter:
     400142: legs_lower_end
     400144: thumb.03.L_end
     400146: thumb.03.R_end
+    400148: MagicBall
+    400150: MagicBall 1
     2300000: //RootNode
     2300002: RockSiren_Paint.body
     2300004: RockSiren_Paint.legs
