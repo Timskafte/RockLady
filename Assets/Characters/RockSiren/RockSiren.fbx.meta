@@ -79,6 +79,7 @@ ModelImporter:
     100146: thumb.03.R_end
     100148: MagicBall
     100150: MagicBall 1
+    100152: magicBall
     400000: //RootNode
     400002: RockSiren_Paint.body
     400004: RockSiren_Paint.legs
@@ -155,22 +156,26 @@ ModelImporter:
     400146: thumb.03.R_end
     400148: MagicBall
     400150: MagicBall 1
+    400152: magicBall
     2300000: //RootNode
     2300002: RockSiren_Paint.body
     2300004: RockSiren_Paint.legs
     2300006: RockSiren_Paint.planes
     2300008: RockSiren_Geo
+    2300010: magicBall
     3300000: //RootNode
     3300002: RockSiren_Paint.body
     3300004: RockSiren_Paint.legs
     3300006: RockSiren_Paint.planes
     3300008: RockSiren_Geo
+    3300010: magicBall
     4300000: RockSiren
     4300002: RockSiren_Paint.legs
     4300004: RockSiren_Paint.body
     4300006: RockSiren_Paint.planes
     4300008: RockSiren_Combined
     4300010: RockSiren_Geo
+    4300012: magicBall
     7400000: idle
     7400002: RockSiren_GameRig|RockSiren@Default
     7400004: RockSiren_Geo|RockSiren@Spawn
@@ -234,8 +239,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/legs_upper/legs_lower
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/legs_upper/legs_lower/legs_lower_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest
@@ -243,8 +246,6 @@ ModelImporter:
       - path: RockSiren_GameRig/Root/hips/spine/chest/neck
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/neck/head
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/neck/head/head_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L
         weight: 1
@@ -264,15 +265,11 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L/f_index.03.L_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L/thumb.02.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L/thumb.03.L_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.02.L
         weight: 1
@@ -282,8 +279,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L/f_middle.03.L_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L/f_ring.01.L
@@ -292,8 +287,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L/f_ring.03.L_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L
@@ -301,8 +294,6 @@ ModelImporter:
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L/f_pinky.03.L_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R
         weight: 1
@@ -322,15 +313,11 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/f_index.03.R_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R/thumb.02.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R/thumb.03.R_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.02.R
         weight: 1
@@ -340,8 +327,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/f_middle.03.R_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R
@@ -349,8 +334,6 @@ ModelImporter:
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/f_ring.03.R_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.04.R
         weight: 1
@@ -360,7 +343,7 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/f_pinky.03.R_end
+      - path: RockSiren_GameRig/Root/MagicBall
         weight: 1
       - path: RockSiren_Geo
         weight: 1
@@ -570,8 +553,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/legs_upper/legs_lower
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/legs_upper/legs_lower/legs_lower_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest
@@ -579,8 +560,6 @@ ModelImporter:
       - path: RockSiren_GameRig/Root/hips/spine/chest/neck
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/neck/head
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/neck/head/head_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L
         weight: 1
@@ -600,15 +579,11 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L/f_index.03.L_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L/thumb.02.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L/thumb.03.L_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.02.L
         weight: 1
@@ -618,8 +593,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L/f_middle.03.L_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L/f_ring.01.L
@@ -628,8 +601,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L/f_ring.03.L_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L
@@ -637,8 +608,6 @@ ModelImporter:
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L.001/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L/f_pinky.03.L_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R
         weight: 1
@@ -658,15 +627,11 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/f_index.03.R_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R/thumb.02.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R/thumb.03.R_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.02.R
         weight: 1
@@ -676,8 +641,6 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/f_middle.03.R_end
-        weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R
@@ -685,8 +648,6 @@ ModelImporter:
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
-        weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/f_ring.03.R_end
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.04.R
         weight: 1
@@ -696,7 +657,7 @@ ModelImporter:
         weight: 1
       - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
         weight: 1
-      - path: RockSiren_GameRig/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R.001/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/f_pinky.03.R_end
+      - path: RockSiren_GameRig/Root/MagicBall
         weight: 1
       - path: RockSiren_Geo
         weight: 1
